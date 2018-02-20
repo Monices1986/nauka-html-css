@@ -1,2 +1,4 @@
-# nauka-html-css
-Nauka html i css z panem Zelentem
+# To repozytorium zawiera materiały do nauki podstaw HTML oraz CSS
+
+Nauka *HTML* i *CSS* z panem Zelentem. Więcej pod adresem: 
+http://pasja-informatyki.pl/
